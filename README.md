@@ -3,7 +3,7 @@
 
 ## More Info
 
-Pretty cool scientific calculator featuring trigonometric operations!
+Pretty cool scientific calculator featuring trigonometric operations and much more!
 
 ## Technology
 
